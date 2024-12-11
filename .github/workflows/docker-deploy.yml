@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: parvesam/nodejs-container-app:latest
+          tags: parvesam/assignment2:latest
